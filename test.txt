@@ -1,1 +1,5 @@
 this is my first text file
+nama saya: Yohanes fransisko elvis
+NMP      :  170403010025
+Prodi    : Teknik Informatika
+Semester : 3 
